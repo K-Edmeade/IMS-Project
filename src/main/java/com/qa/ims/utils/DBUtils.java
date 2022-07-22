@@ -30,9 +30,9 @@ public class DBUtils {
 		} catch (Exception e) {
 			LOGGER.error(e);
 		}
-		this.dbUrl = dbProps.getProperty("db.url", "");
-		this.dbUser = dbProps.getProperty("db.user", "");
-		this.dbPassword = dbProps.getProperty("db.password", "");
+		this.dbUrl =  "jdbc:mysql://localhost:3306/ims_database?serverTimezone=GMT";
+		this.dbUser =  "root";
+		this.dbPassword = "kY41fc99!";
 	}
 
 	public DBUtils() {

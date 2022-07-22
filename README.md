@@ -1,7 +1,9 @@
 Coverage: 34%
 # Project Title
+IMS Project
 
 One Paragraph of project description goes here
+This project is an application which will allow users to create read upload and delete data from an SQL table. The tables are Item and Customer.
 
 ## Getting Started
 
@@ -9,11 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+My SQL workbench
+Eclipse
+Java
+Maven
 
-```
-Give examples
-```
+
 
 ### Installing
 
