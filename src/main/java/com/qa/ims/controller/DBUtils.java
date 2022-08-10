@@ -32,7 +32,7 @@ public class DBUtils {
 		}
 		this.dbUrl =  "jdbc:mysql://localhost:3306/ims_database?serverTimezone=GMT";
 		this.dbUser =  "root";
-		this.dbPassword = "kY41fc99!";
+		this.dbPassword = "";
 	}
 
 	public DBUtils() {
